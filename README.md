@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# ItemReminder
+First version of the ItemReminder plugin.
